@@ -19,7 +19,7 @@ sh = sa.open("EPICBEAST TICKETS")
 worksheet = sh.worksheet("BEASTTICKETS")
 
 print ("Tassilo ist der beste, FACT")
-
+asdasd
 guild_id = str(os.environ.get("serverid"))
 command_channel = int(os.environ.get("commandchannelid"))
 claim_channel = int(os.environ.get("claimchannelid"))
