@@ -1,0 +1,131 @@
+{
+    "list": [
+        {
+            "gifLink":"https://i.imgur.com/dmdBE7X.gif",
+            "weight":1
+        },
+        {
+            "gifLink":"https://i.imgur.com/dmdBE7X.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 25000
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/gXox0md.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/hViFojP.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 60000
+            }  
+        },
+        {
+            "gifLink":"https://i.imgur.com/H0EFikD.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/c1Sy083.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 5000
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/Aqpc4Gh.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/nK9hjpx.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/fW7KURx.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/8CYSIhR.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/Rm0cN8x.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/CVfAtaz.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 10000
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/3FSl0c3.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/RWwJzPV.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/BzFYQCK.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/gIZTQTr.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/9W9V5Wn.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/rsThJdn.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/wDrN9vv.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/xvAFWZg.gif", 
+            "weight": 1
+        },
+        {
+            "gifLink":"https://i.imgur.com/IbN56z6.gif", 
+            "weight": 1,
+            "reward": {
+                "item":"TRIFORCE OF POWER"
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/GCjkoh5.gif", 
+            "weight": 1,
+            "reward": {
+                "item":"TRIFORCE OF WISDOM"
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/kuBcGIn.gif", 
+            "weight": 1,
+            "reward": {
+                "item": "TRIFORCE OF COURAGE"
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/MWhuwZH.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 500
+            }
+        },
+        {
+            "gifLink":"https://i.imgur.com/8YEJlAN.gif", 
+            "weight": 1,
+            "reward": {
+                "cash": 1000
+            }
+        }
+    ]
+}
